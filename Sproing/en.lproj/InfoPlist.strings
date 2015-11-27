@@ -1,0 +1,6 @@
+﻿/* Localized versions of Info.plist keys */
+
+CFBundleName = "Sproing";
+CFBundleShortVersionString = "Sproing version 1.1";
+CFBundleGetInfoString = "Sproing version 1.1, Copyright 2003-2011 Apple, Inc.";
+NSHumanReadableCopyright = "Copyright 2003-2011 Apple, Inc.";
